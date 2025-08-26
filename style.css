@@ -1,61 +1,20 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
+nav li {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
 }
 
-header {
-  background-color: #333;
-  color: white;
-  text-align: center;
-  padding: 20px;
-}
+header nav ul li {
+  display: inline-block;
 
-.conteudo {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  padding: 20px;
-}
+  border: 10px solid;
+  border-radius: 50px;
 
-.foto-central {
-  flex: 1;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding-right: 20px;
-}
+  width: 241px;
+  height: 77px;
 
-.foto-central img {
-  width: 100%;
-  max-width: 300px;
-  height: auto;
-}
-
-.fundamentos {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: flex-start;
-  gap: 20px;
-}
-
-.lado-esquerdo, .lado-direito {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.lado-esquerdo img, .lado-direito img {
-  width: 100%;
-  max-width: 250px;
-  height: auto;
-}
-
-footer {
-  text-align: center;
-  background-color: #333;
-  color: white;
-  padding: 10px;
+  margin-right: 145px;
+  background-color: blueviolet;
 }
