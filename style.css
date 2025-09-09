@@ -74,8 +74,8 @@ main {
 
 }
 
-.mrbeast1,
-.mrbeast3 {
+.futevolei1
+.futevolei3 {
     display: flex;
     flex-flow: column;
     align-items: center;
@@ -90,14 +90,14 @@ main {
     border-radius: 50px;
 }
 
-.mrbeast1 img,
-.mrbeast3 img {
+.futevolei1 img,
+.futevolei3 img {
     width: 138px;
     height: 137px;
     object-fit: cover;
 }
 
-.mrbeast2 {
+.futevolei2{
     width: 950px;
     height: 502px;
 
@@ -108,7 +108,7 @@ main {
 
 }
 
-.mrbeast2 img {
+.futevolei2 img {
     width: 100%;
     height: 100%;
     object-fit: cover;
