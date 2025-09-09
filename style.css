@@ -83,8 +83,8 @@ main {
     align-items: center;
     justify-content: space-around;
 
-    /* width: 15%;
-    height: 100%; */
+     width: 15%;
+    height: 100%;
 
     background-color: #BA2CC7;
 
@@ -95,16 +95,16 @@ main {
 
 .futevolei_1 img,
 .futevolei_3 img {
-    /* width: 50%;
-    height: 20%; */
+     width: 50%;
+    height: 20%;
     object-fit: cover;
 }
 
 
 .futevolei_2 {
 
-    /* width: 950px;
-    height: 502px; */
+    width: 950px;
+    height: 502px;
 
     background-color: #BA2CC7;
     border: 10px solid;
@@ -114,8 +114,8 @@ main {
 }
 
 .futevolei_2 img {
-    /* width: 100%;
-    height: 100%; */
+    width: 100%;
+    height: 100%; 
     object-fit: cover;
     border-radius: 268px;
 
